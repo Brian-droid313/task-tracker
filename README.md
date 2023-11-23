@@ -1,3 +1,6 @@
+### Domains Assigned to Deployment(s)
+- Production - https://task-tracker-seven-hazel.vercel.app/
+
 ### System Requirements
 
 - NodeJS - *v20.9.0*
@@ -6,6 +9,8 @@
 ### Install Project Dependencies
 
 - *npm i* - install project dependencies based on package-lock.json
+
+- nextjs version: 14.0.3
 
 - This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
@@ -31,6 +36,6 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Firebase Deployment
+## Vercel Deployment
 
-TBD
+- https://vercel.com/docs/deployments/overview
